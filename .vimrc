@@ -8,3 +8,4 @@ set incsearch
 
 set tags+=~/.tags
 set backspace=2
+color torte
